@@ -48,10 +48,12 @@ const Home = () => {
                 style={{ 
                     width: '600px', 
                     height: '600px', 
+                    overflow: 'hidden', 
                     borderRadius: '50%', 
-                    imageRendering: 'pixelated', // Use camelCase for image-rendering
+                    imageRendering: 'pixelated', 
                     objectFit: 'cover',
                     backgroundColor: "transparent",
+                    
                 }} 
             />
 
