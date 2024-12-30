@@ -25,7 +25,7 @@ const Projects = () => {
       photo: "/images/projects/SizzleSlice.png",
       liveURL: "https://pranavbafna586.github.io/SizzleSlice/",
       repoURL: "https://github.com/pranavbafna586/SizzleSlice",
-      altText: "An image of Jobify project"
+      altText: "An image of Sizzle Slice project"
     },
     {
       title: "TasteBites",
@@ -33,7 +33,15 @@ const Projects = () => {
       photo: "/images/projects/TasteBites.png",
       liveURL: "https://tastebites.netlify.app/",
       repoURL: "https://github.com/pranavbafna586/TasteBites",
-      altText: "An image of Jobify project"
+      altText: "An image of TasteBites project"
+    },
+    {
+      title: "Employee Management System",
+      description: "A task management system for admins and employees to create, monitor, and update tasks, with a simple login process.",
+      photo: "/images/projects/EMS.png",
+      liveURL: "https://employee-management-system24.netlify.app/",
+      repoURL: "https://github.com/pranavbafna586/Employee-Management-System.git",
+      altText: "An image of Employee Management System project"
     },
   ]
 
